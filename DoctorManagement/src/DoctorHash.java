@@ -9,5 +9,5 @@
  * @author Admin
  */
 public class DoctorHash {
-    
+    private String doctor;
 }
